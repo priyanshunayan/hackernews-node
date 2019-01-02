@@ -1,0 +1,22 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "description": "the graphql clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshunayan/hackernews-node.git"
+  },
+  "author": "priyanshunayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshunayan/hackernews-node/issues"
+  },
+  "homepage": "https://github.com/priyanshunayan/hackernews-node#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.16.9"
+  }
+}
